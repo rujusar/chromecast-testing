@@ -1,0 +1,7 @@
+#Thu Mar 02 18:59:08 CET 2017
+base.0=/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1366bef7edfb3cc7f773099c8be11fa856dba6d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f23e1c4e57c3e5718c18ef3a6e318c9b8db1d38/classes.dex
+base.1=/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f23e1c4e57c3e5718c18ef3a6e318c9b8db1d38
+file.0=/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1366bef7edfb3cc7f773099c8be11fa856dba6d/classes.dex

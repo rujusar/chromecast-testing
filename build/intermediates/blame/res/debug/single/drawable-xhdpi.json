@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/res/merged/debug/drawable-xhdpi/voice_selected.png",
+        "source": "/Users/jcovas/Development/chromecast/CastHelloText-android/res/drawable-xhdpi/voice_selected.png"
+    },
+    {
+        "merged": "/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/jcovas/Development/chromecast/CastHelloText-android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/res/merged/debug/drawable-xhdpi/voice.png",
+        "source": "/Users/jcovas/Development/chromecast/CastHelloText-android/res/drawable-xhdpi/voice.png"
+    }
+]

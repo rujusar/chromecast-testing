@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.2.1_45d493a2a5f85d934a1bdc105ccabad8ec6495ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="97fc1ce9246bf3538749be31ca837bb4234e61f3">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.2.1_cd211d5f54a867b8668695980fc3963954406ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_9f90054d252a61282dec1ad9efd84cd3e9c899a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_48cf878b5e1b4de60fbe9482852197362193e901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_349acc2d7bb7b9181dee153b4e75e707629c10ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_892ba8d6db7f4a5cfd5aa794fdecc20455ebad47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0f5abd331a625753a7a4fd13b3056a86b1e2faf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_7eee6208c84b68ef2f39f714d214170a44818e51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_bc02a74a738da2db60b3013303c9a16843d86520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39fa5b0094643efca157256b6cc143727730e10f">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1366bef7edfb3cc7f773099c8be11fa856dba6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ad52cbcba4bc7b5187901ab1c36d309476be82d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_22cadef70d761a97098940c6aa8cee42eca6e832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1c1cdb0edbdc03966ccf599ecccf4c97414d3900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_6cd7522ffe24159ee31d770317169f6c368179db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_7ccaa455b99831880df03f8b6e3cce5e23da8d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7c75f71d1925c2df0960334f793e2e3d8c79688c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_57c39fbcf02b2db05f4464226f07feca1192d39a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_34d64400aebde4ebc78e6e22a4a222145a186f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_707f1527244ad0170016a25065ccb6f572ab983c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_eb78f64ddbd3fa8a5cfe2b91c4d5a64a5d15c113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dc0cb03a00b77986a568148bb2bcbd30453ddad9">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f23e1c4e57c3e5718c18ef3a6e318c9b8db1d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Library/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1148a095d4811967677ea418c0051af0ee23a9cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7cf821bf57f6040f89f69c8e9559d507a2624196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="806d492d393faf5058033c635a9b81e469714f51">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6428e3f62ab1d1aa8626dc506d81a557cc1cadbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jcovas/Development/chromecast/CastHelloText-android/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8ade96965bfe75ccd218860de436667cec2af043/classes.dex" />
+    </item>
+
+</items>
